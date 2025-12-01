@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "IO - Recognize feat. C.O.S.A. (Prod. C.O.S.A.)",
+  "base_artist": "IO",
+  "createdAt": "2025-12-01T14:06:28.203636Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I Only Want To Be With You",
+      "artist": "Bay City Rollers",
+      "has_synced": false,
+      "path": "select/pl_01_I_Only_Want_To_Be_With_You_Bay_City_Rollers.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "I/O",
+      "artist": "Bay City Rollers",
+      "has_synced": false,
+      "path": "select/pl_02_I_O_Bay_City_Rollers.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "I Only Start Loving You ～恋人たちの午後～",
+      "artist": "Bay City Rollers",
+      "has_synced": false,
+      "path": "select/pl_03_I_Only_Start_Loving_You_~恋人たちの午後~_Bay_City_Rollers.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "I.O.J.F.K",
+      "artist": "Bay City Rollers",
+      "has_synced": false,
+      "path": "select/pl_04_I.O.J.F.K_Bay_City_Rollers.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "I/O",
+      "artist": "Bay City Rollers",
+      "has_synced": false,
+      "path": "select/pl_05_I_O_Bay_City_Rollers.txt"
+    }
+  ]
+}
